@@ -1,0 +1,10 @@
+*.py[cod]
+venv
+
+# Packages
+build
+bin
+var
+lib
+lib64
+.cache
