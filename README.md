@@ -31,9 +31,16 @@ $ python ..\API\run.py
 ```
 
 ## UNIT TEST:
+- Executar no cmd:
 ```
 UnitTest> test.py
 Ran 2 tests in 2,078s
 
 OK
+```
+
+## INTERFACE:
+- Importar o TKinter:
+```
+from tkinter import *
 ```
