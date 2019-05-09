@@ -29,3 +29,11 @@ $ python ..\API\run.py
  * Debugger PIN: 266-011-970
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
+
+## UNIT TEST:
+``` test.py
+----------------------------------------------------------------------
+Ran 2 tests in 2.078s
+
+OK
+```
