@@ -31,9 +31,9 @@ $ python ..\API\run.py
 ```
 
 ## UNIT TEST:
-``` test.py
-----------------------------------------------------------------------
-Ran 2 tests in 2.078s
+```
+UnitTest> test.py
+Ran 2 tests in 2,078s
 
 OK
 ```
